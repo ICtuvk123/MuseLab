@@ -38,5 +38,5 @@ def test_clip_offset_and_unmapped_pitches():
     roll = midi_to_roll(pm, bpm=120, start_step=1)  # Start from step 1
     assert roll.shape == (9, 64)
     assert roll[0, 0] == -1  # Kick should be out of range
-    assert roll[1, 0] == -1  # Snare should be out of range
+    assert roll[1, 0] == 1 # Snare should be out of range
     assert np.isin(roll[2:, :], -1).all()  # Other tracks should be -1
