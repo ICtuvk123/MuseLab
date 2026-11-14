@@ -1,1 +1,3 @@
 WRN 2026-11-14T15:45:09.366 ?.73861    server_start:197: Failed to start server: operation not permitted: /var/folders/pw/f20ggmm132n7_b_xsc3kn50c0000gn/T/nvim.ictuvk/GSJwe8/nvim.73861.0
+WRN 2026-11-14T15:50:10.425 ?.74935    server_start:197: Failed to start server: operation not permitted: /var/folders/pw/f20ggmm132n7_b_xsc3kn50c0000gn/T/nvim.ictuvk/I6TJyZ/nvim.74935.0
+WRN 2026-11-14T15:50:20.855 ?.74963    server_start:197: Failed to start server: operation not permitted: /var/folders/pw/f20ggmm132n7_b_xsc3kn50c0000gn/T/nvim.ictuvk/ghw1R1/nvim.74963.0
