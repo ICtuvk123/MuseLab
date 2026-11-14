@@ -1,4 +1,4 @@
-from pathlib import path
+from pathlib import Path
 import numpy as np
 import pretty_midi
 from muselab.data.symbolic import roll_to_midi, midi_to_roll
